@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahesh S R</h1>
 <h3 align="center">An Aspiring web developer.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/mahesh06111999/mahesh06111999/assets/48825634/9dfcab5d-fb65-49da-8cb5-3c2c6437ada1)
-">  
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh06111999&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh06111999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh06111999" alt="mahesh06111999" /></a> </p>
+
 
 - 🌱 I’m currently learning **JAVA,MERN**
 
