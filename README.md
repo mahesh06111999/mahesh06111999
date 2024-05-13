@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/in/s-r-mahesh](https://www.linkedin.com/in/s-r-mahesh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-r-mahesh/)
 
 # 💻 Tech Stack:
 
