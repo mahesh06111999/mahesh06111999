@@ -1,13 +1,10 @@
-
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"> 
 <h1 align="center">Hi 👋, I'm Mahesh S R</h1>
 <h3 align="center">An Aspiring web developer.</h3>
 
-<img align="right" alt="coding" width="300" height="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">  
+<img align="right" alt="coding" width="300" height="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh06111999&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh06111999" /> </p>
-
-
 
 - 🌱 I’m currently learning **JAVA,MERN**
 
@@ -21,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<tabel>
+<tabel "border=1px">
   <thead>
     <th>JAVA</th>
     <th>JS</th>
@@ -30,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src=-"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-qsect&psig=AOvVaw3zxC7LX7lMvuWTla4nTCIF&ust=1715653452207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjj4rHJiYYDFQAAAAAdAAAAABAJ" alt="JAVA"  width="40" height="40"></td>
+      <td><img src=-"https://www.google.com/imgres?q=java%20logo%204k&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7250034.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fjava-logo-wallpapers&docid=gYp44T0dMYD09M&tbnid=qz8nkfUan93naM&vet=12ahUKEwjsjt3QyomGAxWC-DgGHUCEDGAQM3oECBgQAA..i&w=1280&h=768&hcb=2&ved=2ahUKEwjsjt3QyomGAxWC-DgGHUCEDGAQM3oECBgQAA" alt="JAVA"  width="40" height="40"></td>
     </tr>
   </tbody>
   
@@ -41,5 +38,3 @@
 
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&show_icons=true&locale=en" alt="mahesh06111999" /></p></div>
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh06111999&" alt="mahesh06111999" /></p></div>
-
-
