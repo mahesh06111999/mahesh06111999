@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<tabel "border=1px">
+<tabel border="1px">
   <thead>
     <th>JAVA</th>
     <th>JS</th>
