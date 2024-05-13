@@ -18,10 +18,18 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh06111999&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh06111999&theme=merko&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahesh06111999&theme=merko&hide_border=false&_align=center)<br/>
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 #
-![](https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
