@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src=-"https://www.google.com/imgres?q=java%20logo%204k&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7250034.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fjava-logo-wallpapers&docid=gYp44T0dMYD09M&tbnid=qz8nkfUan93naM&vet=12ahUKEwjsjt3QyomGAxWC-DgGHUCEDGAQM3oECBgQAA..i&w=1280&h=768&hcb=2&ved=2ahUKEwjsjt3QyomGAxWC-DgGHUCEDGAQM3oECBgQAA" alt="JAVA"  width="40" height="40"></td>
+      <td><img src=-"./image.png" alt="JAVA"  width="40" height="40"></td>
     </tr>
   </tbody>
   
