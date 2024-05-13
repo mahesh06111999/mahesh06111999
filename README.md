@@ -4,7 +4,9 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **JAVA,MERN**<br>- 💬 Ask me about **java,html,css,bootstrap,sass,Javascript**<br>- 📫 How to reach me **maheshsr611@gmail.com**
+- 🌱 I’m currently learning **JAVA,MERN**<br>
+- 💬 Ask me about **java,html,css,bootstrap,sass,Javascript**<br>
+-  📫 How to reach me **maheshsr611@gmail.com**
 
 ## 🌐 Socials:
 
