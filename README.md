@@ -33,5 +33,12 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
  
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahesh06111999&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 #
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
