@@ -2,10 +2,17 @@
 <h1 align="center">Hi 👋, I'm Mahesh S R</h1>
 <h3 align="center">An Aspiring web developer.</h3>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahesh06111999&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
 # 💫 About Me:
 
 - 🌱 I’m currently learning **JAVA,MERN**<br>
+
 - 💬 Ask me about **java,html,css,bootstrap,sass,Javascript**<br>
+
 -  📫 How to reach me **maheshsr611@gmail.com**
 
 ## 🌐 Socials:
@@ -26,16 +33,12 @@
 ---
 
 
-
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&show_icons=true">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
  
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh06111999&style=for-the-badge&color=orange" alt=""/>
-</div>
 
-#
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahesh06111999&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
 
