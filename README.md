@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahesh sr" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mahesh sr" height="55" width="55" /></a>
+<a href="https://www.linkedin.com/in/s-r-mahesh/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mahesh sr" height="55" width="55" /></a>
 </a>
 </p>
 
