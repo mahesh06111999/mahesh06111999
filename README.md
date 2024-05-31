@@ -15,9 +15,14 @@
 
 -  📫 How to reach me **maheshsr611@gmail.com**
 
-## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-r-mahesh/)
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahesh sr" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mahesh sr" height="55" width="55" /></a>
+</a>
+</p>
 
 ---
 
@@ -64,7 +69,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&show_icons=true">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&show_icons=true"><br/>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
  
