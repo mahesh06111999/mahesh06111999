@@ -55,7 +55,7 @@
 
 | Netlify | GitHub | 
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/>|<img src="https://gravity-gagan.github.io/static/media/github.3b9e32903aa89111875d.png" title="GitHub" alt="GitHub" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/>|<img src="https://github.com/mahesh06111999/mahesh06111999/assets/48825634/5851024b-3481-433d-929f-2238c6e85505" title="GitHub" alt="GitHub" width="55" height="55"/>|
 </div>
 
 ---
