@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"> 
 <h1 align="center">Hi 👋, I'm Mahesh S R</h1>
-<h3 align="center">An Aspiring web developer.</h3>
+<h3 align="center">Aspiring MERN stack developer passionate about building dynamic web applications. Skilled in MongoDB, Express.js, React, and Node.js, with a focus on creating scalable solutions and intuitive user interfaces.</h3>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mahesh06111999&style=for-the-badge&color=orange" alt=""/>
