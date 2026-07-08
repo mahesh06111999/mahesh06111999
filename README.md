@@ -60,20 +60,28 @@
 
 ---
 
-  
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh06111999&theme=merko&hide_border=true&border_radius=5&card_width=800">
+  <img
+    src="https://streak-stats.demolab.com?user=mahesh06111999&theme=merko&hide_border=true&border_radius=5"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
-
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mahesh06111999&theme=merko&show_icons=true"><br/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh06111999&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
+  <img
+    width="600"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahesh06111999&show_icons=true&theme=merko"
+  />
+  <br><br>
+  <img
+    width="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahesh06111999&layout=compact&theme=merko"
+  />
 </p>
- 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahesh06111999&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh06111999&theme=github_dark" />
+</p>
 
